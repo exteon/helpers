@@ -1,0 +1,19 @@
+{
+  "name": "exteon/helpers",
+  "version": "1.0.0",
+  "description": "General-use utilities",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dinu Marina"
+    }
+  ],
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "Exteon\\Helpers\\": [
+        "src"
+      ]
+    }
+  }
+}
